@@ -1,0 +1,2 @@
+# python10
+ARM STRONG NUMBER
